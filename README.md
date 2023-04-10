@@ -26,14 +26,13 @@
 <!-- ![alt](https://img.shields.io/badge/LogoName-SideText-Color?style=for-the-badge&logo=LogoName) 
 https://simpleicons.org/ to check for colors
 -->
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django)
-![Postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql)
-![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=Sqlite)
-![CSS Module](https://img.shields.io/badge/CSS-Modules-000000?style=for-the-badge&logo=CSS-Modules)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=Sqlite&logoColor=white)
+![CSS Module](https://img.shields.io/badge/CSS-Modules-000000?style=for-the-badge&logo=CSS-Modules&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
