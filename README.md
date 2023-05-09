@@ -1,6 +1,7 @@
 # Hi, I'm Yuskhosmith <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="waving-hello">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yuskhosmith)
+[![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:yuskhosmith1@gmail.com)
 
 [<img src="https://komarev.com/ghpvc/?username=yuskhosmith&label=Profile%20views&color=0e75b6&style=flat" alt="Yuskhosmith" />](https://github.com/yuskhosmith/yuskhosmith)
 
@@ -16,10 +17,12 @@
 
 - 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects.
 
-<!-- - 🤔 I’m looking for help with nice web animations with GSAP, framer-motion etc. -->
 - 💬 Ask me about Python(Django) and JavaScript(ReactJS).
+
 - 📫 How to reach me: yuskhosmith1@gmail.com
+
 - 😄 Pronouns: he/him
+
 - ⚡ Fun fact: Books >>>> Videos.
 
 ### Tools & Technologies
