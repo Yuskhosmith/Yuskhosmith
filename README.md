@@ -8,7 +8,7 @@
 
 - Yuskhosmith is alias to Opoola Yusuf.
 
-- Yusuf is a graduating student at Lagos State University, studied Computer Science.
+- Yusuf graduated from Lagos State University with a Bachelor's Degree in Computer Science.
 
 - An enthusiastic and result-driven individual with a strong yearning to learn. Excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
 
@@ -18,8 +18,7 @@
 
 - 💬 Ask me about Python(Django) and JavaScript(ReactJS).
 
-- 📫 How to reach me: yuskhosmith1@gmail.com
-
+- 📫 How to reach me: [Twitter](https://twitter.com/Yuskhosmith) [Instagram](https://www.instagram.com/Yuskhosmith/)
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Books >>>> Videos.
@@ -91,3 +90,14 @@
   <h2> <strong> My Github Stats </strong> </h2>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuskhosmith&show_icons=true&theme=transparent&hide_border=true">
 </div> -->
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
