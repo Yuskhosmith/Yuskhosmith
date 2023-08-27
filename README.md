@@ -39,7 +39,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Yuskhosmith)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Yuskhosmith)
 
-### Tools
+### Tools & Services
 ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![Sqlite](https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=Sqlite)
 ![CSS Module](https://img.shields.io/badge/CSS--modules-black?style=for-the-badge&logo=CSS-Modules)
@@ -53,6 +53,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code)
 ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 ![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)
+![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 
 
 
