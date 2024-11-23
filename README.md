@@ -1,45 +1,41 @@
-# Hi, I'm Yuskhosmith <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="waving-hello">
+# Hi, I'm Yusuf <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="waving-hello">
+
+Hi, I'm Yuskhosmith (Opoola Yusuf), a Computer Science graduate with a strong passion for coding, problem-solving, and building impactful solutions.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yuskhosmith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yusufopoola/)
 
+- 🌱 I’m currently diving deeper into Full-Stack Web Development with Python and JavaScript.
 
-> You are probably wondering who Yuskhosmith is; 
-
-- Yuskhosmith is alias to Opoola Yusuf.
-
-- Yusuf graduated from Lagos State University with a Bachelor's Degree in Computer Science.
-
-- An enthusiastic and result-driven individual with a strong yearning to learn. Excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
-
-- 🌱 I’m currently learning ReactJS, I am also profound in Python, JavaScript and Frameworks like Django & Flask.
-
-- 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects.
+- 👯 I’m excited to collaborate on Full-Stack Web Development and Open-Source Projects.
 
 - 💬 Ask me about Python(Django) and JavaScript(ReactJS).
 
-- 📫 How to reach me: [Twitter](https://twitter.com/Yuskhosmith) [Instagram](https://www.instagram.com/Yuskhosmith/)
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Books >>>> Videos.
+- ⚡ Fun fact: I prefer books over videos.
 
+---
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Yuskhosmith)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Yuskhosmith)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Yuskhosmith)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Yuskhosmith)<!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Yuskhosmith) -->
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Yuskhosmith)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)<!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### Technologies & Frameworks
-[![Next](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)](https://github.com/Yuskhosmith)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Yuskhosmith)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Yuskhosmith)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Yuskhosmith)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Yuskhosmith)
+![Next](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+![Fast API](https://img.shields.io/badge/fast%20api-black?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Yuskhosmith)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Yuskhosmith)
+
+![Mac](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
 ### Tools & Services
 ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
@@ -63,13 +59,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/Yuskhosmith">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuskhosmith&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuskhosmith&theme=transparent" />
   </a>
   <a href="https://github.com/Yuskhosmith">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuskhosmith&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/Yuskhosmith">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuskhosmith&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuskhosmith&theme=transparent" />
   </a>
   <a href="https://github.com/Yuskhosmith">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Yuskhosmith&layout=compact&theme=transparent&hide_border=true"> 
