@@ -15,7 +15,6 @@ Hi, I'm Yuskhosmith (Opoola Yusuf), a Computer Science graduate with a strong pa
 
 - ⚡ Fun fact: I prefer books over videos.
 
----
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
