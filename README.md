@@ -2,8 +2,9 @@
 
 Hi, I'm Yuskhosmith (Opoola Yusuf), a Computer Science graduate with a strong passion for coding, problem-solving, and building impactful solutions.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yuskhosmith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yusufopoola/)
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yuskhosmith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufopoola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=files&logoColor=white)](https://ysk.vercel.app)
 
 - 🌱 I’m currently diving deeper into Full-Stack Web Development with Python and JavaScript.
 
